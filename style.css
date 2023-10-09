@@ -1,0 +1,40 @@
+#new{
+ margin-top: 150px;
+ margin-left: 0px;
+ background: white;
+ padding-top: 50px;
+ padding-left: 70px;
+ padding-bottom: 50px;
+}
+
+body{
+ background: #32BBB6;
+ font-family: 'Playfair', serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+}
+
+#warn{
+ color: darkred;
+}
+
+#tasks{
+ background: whitesmoke;
+ padding: 0px;
+}
+
+.btn-warning{
+ margin-left: 300px;
+}
+
+#tasks h3{
+ margin-left: 100px;
+}
+ul{
+ list-style: none;
+}
+ul li{
+ margin-left: 30px;
+ font-size: 25px;
+}
